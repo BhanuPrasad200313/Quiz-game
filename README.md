@@ -1,5 +1,3 @@
-# Quiz-game
-Interactive Quiz Game built with HTML, CSS, and JavaScript featuring a timer, score tracking, and dynamic questions.
 # Quiz Game 🎯
 
 This is a simple and interactive **Quiz Game** built using **HTML, CSS, and JavaScript**.  
